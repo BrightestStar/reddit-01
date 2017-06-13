@@ -36,6 +36,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'devise'
 gem 'acts_as_votable', '~> 0.10.0'
+gem 'simple_form'
+gem 'record_tag_helper'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
